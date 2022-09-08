@@ -1,7 +1,7 @@
 {
   "domain": "blackultracaps.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#0c3267",
+  "primary_color": "#21714d",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -17,7 +17,7 @@
   "favicon": "/img/uploads/1651464222103-designsemnome2.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#21714d",
+  "secondary_color": "#0c3267",
   "icon": "/img/uploads/1651464222103-designsemnome2.png",
   "store_id": 36667,
   "description": "blackultracaps",
