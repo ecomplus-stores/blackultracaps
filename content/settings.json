@@ -1,12 +1,12 @@
 {
   "domain": "blackultracaps.com",
   "currency_symbol": "R$",
-  "primary_color": "#21714d",
+  "primary_color": "#efefef",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "bg_color": "#116011",
+  "bg_color": "#f5eeee",
   "logo": "/img/uploads/1651464222103-designsemnome2.png",
   "name": "blackultracaps",
   "short_name": "blackultracaps",
@@ -15,9 +15,9 @@
   "mini_logo": "",
   "font_family": "_",
   "favicon": "/img/uploads/1651464222103-designsemnome2.png",
-  "icons_font": "_",
+  "icons_font": "font-awesome",
   "country_code": "BR",
-  "secondary_color": "#0c3267",
+  "secondary_color": "#00ff00",
   "icon": "/img/uploads/1651464222103-designsemnome2.png",
   "store_id": 36667,
   "description": "blackultracaps",
