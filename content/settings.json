@@ -4,9 +4,9 @@
   "primary_color": "#21714d",
   "theme": {
     "bootswatch": "_",
-    "custom": "clean-dark"
+    "custom": "_"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#116011",
   "logo": "/img/uploads/1651464222103-designsemnome2.png",
   "name": "blackultracaps",
   "short_name": "blackultracaps",
