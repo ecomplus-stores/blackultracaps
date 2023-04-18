@@ -1,6 +1,7 @@
 {
   "domain": "blackultracaps.netlify.app",
   "currency_symbol": "R$",
+  "repository": "ecomplus-stores/blackultracaps"
   "primary_color": "#0a0a0a",
   "theme": {
     "bootswatch": "_",
