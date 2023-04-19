@@ -43,7 +43,8 @@
     "hiper": false,
     "diners": false,
     "mais": false,
-    "amex": true,
+    "pix": true,
+    "amex": false,
     "itau": true
   },
   "credits": ""
