@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.c749ba945433a966c2f1440e7fafe339.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.a31e9abbd9a6e86c040b232fbc3900da.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.f88d9cda67141008cb01586b6a389098.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.e875ce585161b97623d9a7c3af33912d.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.44191a72d42b0b5fa3257b9420fb5b1f.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "blackultracaps",
+  "short_name": "blackultracaps",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "blackultracaps",
+  "background_color": "#ecf1ec",
+  "theme_color": "#0a0a0a"
+}
